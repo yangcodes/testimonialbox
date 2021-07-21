@@ -16,7 +16,7 @@ body {
   padding: 10px;
 }
 .testimonial-container {
-  background-color: #476ce4;
+  background-color: salmon;
   color: #fff;
   border-radius: 15px;
   margin: 20px auto;
@@ -70,7 +70,7 @@ body {
   background-color: #fff;
   height: 4px;
   width: 100%;
-  animation: grow 10s linear infinite;
+  animation: grow 5s linear infinite;
   transform-origin: left;
 }
 
